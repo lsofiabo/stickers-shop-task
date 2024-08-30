@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Baby Yoda",
+      "image": "baby-yoda.svg",
+      "description": "Baby Yoda Sticker",
+      "price": "49.99"
+    },
+    {
+      "name": "Banana",
+      "image": "banana.svg",
+      "description": "Banana Sticker",
+      "price": "19.99"
+    },
+    {
+      "name": "Girl",
+      "image": "girl.svg",
+      "description": "Girl Sticker",
+      "price": "24.99"
+    },
+    {
+      "name": "Viking",
+      "image": "viking.svg",
+      "description": "Viking Sticker",
+      "price": "34.99"
+    }
+  ]
+}
